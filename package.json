@@ -14,8 +14,8 @@
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1",
     "lesson-threee": "0.0.0",
-    "three": "0.185.0",
-    "@types/three": "0.185.0"
+    "three": "0.128.0",
+    "@types/three": "0.128.0"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
